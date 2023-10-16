@@ -44,23 +44,23 @@ alias: "P03-91-02, The Script"
 - [x] interview with shane with father in press - mon dec 16th 2019 ✅ 2023-10-13  
 - [x] search parties organised - tues dec 17th 2019 ✅ 2023-10-13  
 - [x] police update - tues dec 17th 2019 ✅ 2023-10-13  
-- [ ] heidi parents speak out - wed dec 18th 2019  
-- [ ] account that heidi tried to leave - wed dec 18th 2019  
-- [ ] report of abuse (slueths line 3859)  
-- [ ] shane's actions after - wed dec 18th 2019  
-- [ ] m.w account   
-- [ ] fbi begin looking into those close to heidi  
-- [ ] revisit the child birth, the actions of magen  
-- [ ] fbi behavioural conclusions  
-- [ ] mw confirms in magen in lineup  
-- [ ] hisotical data  
-- [ ] surveillance  
-- [ ] christopher confronted  
-- [ ] fbi behavioural analysis further   
-- [ ] rangers go to house  
-- [ ] warrant  
-- [ ] arrest  
-- [ ] charges  
+- [x] heidi parents speak out - wed dec 18th 2019 ✅ 2023-10-13  
+- [x] account that heidi tried to leave - wed dec 18th 2019 ✅ 2023-10-13  
+- [x] report of abuse (slueths line 3859) ✅ 2023-10-13  
+- [x] shane's actions after - wed dec 18th 2019 ✅ 2023-10-13  
+- [x] m.w account ✅ 2023-10-13  
+- [x] fbi begin looking into those close to heidi ✅ 2023-10-13  
+- [x] revisit the child birth, the actions of magen ✅ 2023-10-13  
+- [x] fbi behavioural conclusions ✅ 2023-10-13  
+- [x] mw confirms in magen in lineup ✅ 2023-10-13  
+- [x] hisotical data ✅ 2023-10-13  
+- [x] surveillance ✅ 2023-10-13  
+- [x] christopher confronted ✅ 2023-10-13  
+- [x] fbi behavioural analysis further ✅ 2023-10-13  
+- [x] rangers go to house ✅ 2023-10-13  
+- [x] warrant ✅ 2023-10-13  
+- [x] arrest ✅ 2023-10-13  
+- [x] charges ✅ 2023-10-13  
 - [ ] chrono to the end  
   
 ## The Script  
@@ -312,7 +312,7 @@ The investigators addressed the press that evening, let's take a look.[^95]
 >![02-police-give-update](../../../assets/attachments/02-police-give-update.mp4)  
 >Video: [02-police-give-update](../../../assets/attachments/02-police-give-update.mp4)  
   
-On [Wednesday December 18th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-12-18-Wednesday-December-18th-2019.md#), [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s parents spoke to the press, saying:  
+On [Wednesday December 18th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-12-18-Wednesday-December-18th-2019.md#), [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s parents spoke to the press, saying:[^96]   
   
 >[!quote] [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s parents  
 >"It's very hard. The more you think about it, the worse it gets"  
@@ -321,7 +321,344 @@ On [Wednesday December 18th 2019](../../10-to-19-Case-Dates/11-Background-Dates/
 >  
 >"She would not leave her son ... her kids are her heartbeat"  
   
+Now that Wednesday, an account from one of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s friends was published that began to paint a concerning picture.[^97]   
   
+According to this friend, [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had told this friend that she wanted to move to a vacant home in Kyle, Texas, that belonged to [Shane Carey's Father](../../70-to-79-People/73-Family-and-Friends/05-Shane-Careys-Father.md#.md#).[^98]   
+  
+The friend said that she had no idea that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) hadn't moved to the home, and that the friend had been surprised to hear that she had still been living in the Austin [apartment](../../50-to-59-Investigation/52-Key-Locations/01-Apartment.md#.md#.md#.md#.md#).[^99]   
+  
+This friend proceeded to add that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had planned to drive her son 40 minutes each way to a school in Austin so that the [six year old child](../../70-to-79-People/73-Family-and-Friends/03-Six-Year-Old-Child.md#.md#.md#.md#.md#.md#) could stay in school.[^100]   
+  
+>[!quote] [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s friend  
+>*“She was willing to drive 40 minutes out of her way to have them in a better school. That’s not a mother that leaves…..I feel like everybody is focusing on her running away and knowing Heidi I doubt that.”*  
+  
+[Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s friend also revealed that she had been surprised when [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had told her over the summer that she had gotten back together with [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#), as the pair had apparently previously broken up.[^101]   
+  
+On top of that, the friend stated that [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#)'s recent behaviour after [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had disappeared differed from how he would previously act, when [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) allegedly showed up to her house almost immediately after [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) didn't answer the phone.[^102]   
+  
+>[!quote] [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s friend  
+>*“Why would that not scare you as a husband? I specifically remember a time she ([Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)) was at my house and didn’t answer her phone. He ([Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#)) showed up to my house freaking out right after he got home.”*   
+  
+And this friend hadn't been the only person to have doubts about [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#)'s version of events.  
+  
+>[!note]  Video Insert  
+>![08-equusearch](../../../assets/attachments/08-equusearch.mp4)  
+>([Equusearch Video](../../../assets/attachments/08-equusearch.mp4))  
+>>[!quote] Transcript Quote  
+>>"The family called us first and then I called and talked to the detectives up in Austin and we talked several times with detectives, and they said we just don't have anything yet on the investigation, it's narrowing this thing down to an area that we think we need to search. And he asked me, said have you found any areas? And I said, well, I did but I don't know if they make any sense. I said, I rode around with Shane for a long time. I you know I spent a good part of the day with him and you know we hate to go up there and spend a lot of money and burn up a bunch of resources with just shooting a arrow in the sky wherever it comes down, that's where we start. So we stayed in close touch, I talked to Shane almost every day. Shane's frustrated at best"  
+>>  
+>>(...)  
+>>  
+>>"He took a lot of heat, and Shane would call me and say man they brought me and they polygraphed me, they kept me seven and a half hours and stuff, and he got upset with them, he called them some names that we can't say, and he said if I had anything do with this, squeeze it out of me. How come they can't squeeze it out of me? And you know, and Shane was questionable in my mind. He was. And his stories weren't just quite as consistent as I thought"  
+  
+It also emerged that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had repeatedly tried to leave [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#), and had accused him of physically assaulting her.[^103]   
+  
+Photos taken by [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) in March of 2019 show injuries that she had apparently sustained after [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) had attacked her in a row over her wanting to leave him.[^104]   
+  
+Bruises to her arms and legs can be seen in the images, which she sent to her friend.[^105]   
+  
+Now something of note that [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#) revealed of his actions when he first realised that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had been missing had been that he had walked around the [apartment](../../50-to-59-Investigation/52-Key-Locations/01-Apartment.md#.md#.md#.md#.md#.md#) complex "going through dumpsters" to see if he could find her keys.[^106]   
+  
+>[!quote] [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#)  
+> *'I sat outside to see any suspicions, anything that was weird,'*   
+>   
+> (...)  
+>   
+> 'The next morning I sat out here for hours asking everybody if they'd seen or heard screaming, anything that was off or suspicious. They're all saying no.'*   
+  
+It had been on that same December Wednesday, the 18th in 2019, that an adult female - known only as [M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) - contacted [Detective Mireles](../../70-to-79-People/75-Police-and-Detectives/08-Detective-Mireles.md#) and [Detective Briegel](../../70-to-79-People/75-Police-and-Detectives/09-Detective-Briegel.md#) about an encounter she had on [December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#) - the day [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and the [newborn child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#) went missing.[^107]   
+  
+[M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) told the detectives that on either [December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#.md#) or [December 11 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-12-11-Wednesday-December-11th-2019.md#), she had been driving through the rear of the apartment complex where [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) had lived when she saw a four door vehicle, which she said had been light in colour, stopped in the parking lot perpendicular to the provider parking space.[^108] [^109]   
+  
+[M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) explained that she saw a white adult female walk from between buildings 7 and 8 towards the vehicle carrying a small infant who had been wearing a knit cap.[^110] [^111]   
+  
+This witness saw a female exit the front passenger seat and greet the woman carrying the small infant, before opening the rear passenger side door of the car.[^112] [^114]   
+  
+The woman with the baby entered the rear passenger seat, both of the doors to the car closed, and the vehicle drove away.[^115]   
+  
+[M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) claimed that there had not been enough time for the adult female to secure the infant into any type of child restraint system prior to the car driving away.[^113]   
+  
+[M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) turned from the main lane of the parking lot and last saw the car driving towards the exit gate to South First.[^116]   
+  
+Now [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) had previously spoken with the investigators about [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s circle of friends, and had mentioned how [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) had been her best friend - giving them the contact details of her.[^117]   
+  
+The police investigated all avenues, and learnt that [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s cell phone had been serviced by T-Mobile.[^118]   
+  
+That same day, [Intelligence Analyst Ferguson](../../70-to-79-People/75-Police-and-Detectives/11-Intelligence-Analyst-Ferguson.md#) of the FBI conducted what is known as open source research in connection to any social media presence for [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#).[^119]   
+  
+A search of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s contacts on Instagram revealed an Instagram account for the user "maygenhumphrey", and after [Intelligence Analyst Ferguson](../../70-to-79-People/75-Police-and-Detectives/11-Intelligence-Analyst-Ferguson.md#) obtained the records for that Instagram account via a Voluntary Emergency Disclosure, they learnt that the account had been registered using an email containing the name [Maygen Humphrey](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), and that it had been active for an extended period time with no post history.[^120] [^121] [^122] [^123]   
+  
+Further research into [Maygen Humphrey](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#) revealed at least one photo on [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s Facebook account of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) with a white female who was tagged as [Maygen Humphrey](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^124]   
+  
+And when they compared this white female with the known Texas Driver's License photo of [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#), they were a match.[^125]   
+  
+[Intelligence Analyst Ferguson](../../70-to-79-People/75-Police-and-Detectives/11-Intelligence-Analyst-Ferguson.md#) then proceeded to request records from Google pertaining to the email address used to create the [Maygen Humphrey](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) Instagram account via another Voluntary Emergency Disclosure - and this request revealed some concerning results.[^126]   
+  
+The search history showed a Google search for "reasons for Amber Alert" performed on [December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#.md#.md#), at 10:31pm.[^127]   
+  
+It must be noted that to date, an official Amber Alert for the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) has not been released via Austin Police Department or Texas Department of Public Safety.[^128]   
+  
+Another Google search had been made at 10:42pm for "Amber alert issued Austin".[^129]   
+  
+And a full review of the searches performed between [November 11 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-11-11-Monday-November-11th-2019.md#) and [December 18th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-12-18-Wednesday-December-18th-2019.md#.md#) revealed some form of "[Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#)" was searched at least 162 times from a device utilizing that email account.[^130]   
+  
+On [December 14 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-14-Saturday-December-14th-2019.md#.md#), the Google search history showed a search for "bodies found in Austin Texas".[^131]   
+  
+A follow-up request via Voluntary Emergency Disclosure for any Facebook or Instagram accounts connected to the email address resulted in the identification of a Facebook account with the vanity name MAYGEN.HUMPHREY.[^132]   
+  
+And what was interesting about that Facebook account was that it had been active from 2008 up until 9:09pm on [December 17th 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-17-Tuesday-December-17th-2019.md#.md#) when it was terminated or deactivated, and it's IP address history resolved to T-Mobile.[^133] [^134]   
+  
+[Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) and [Shane Carey's Father](../../70-to-79-People/73-Family-and-Friends/05-Shane-Careys-Father.md#.md#.md#) also provided an account from the day that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) gave birth to the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) that concerned the investigators.  
+  
+According to them, after the birth, multiple family members entered the delivery room.[^135]   
+  
+The [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) was first held by [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#), then by [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#), then by [V.S](../../70-to-79-People/73-Family-and-Friends/04-VS.md#.md#), and then by [Shane Carey's Father](../../70-to-79-People/73-Family-and-Friends/05-Shane-Careys-Father.md#.md#.md#.md#).[^136]   
+  
+And immediately after [Shane Carey's Father](../../70-to-79-People/73-Family-and-Friends/05-Shane-Careys-Father.md#.md#.md#.md#.md#) was handed his grandchild, [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) interjected herself and asked to hold the [newborn child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#) as she needed to leave.[^137]   
+  
+This surprised [Shane Carey's Father](../../70-to-79-People/73-Family-and-Friends/05-Shane-Careys-Father.md#.md#.md#.md#.md#) that his first introduction and time with his grandchild had been so rudely interrupted by a friend of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s.[^138]   
+  
+The key that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) had given to [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) to get access to their [apartment](../../50-to-59-Investigation/52-Key-Locations/01-Apartment.md#.md#.md#.md#.md#.md#.md#) around the time of the birth of the [newborn child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#) could not be located again, and had also gone missing, even after [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had told them that she would leave the key on the counter inside the apartment.[^139] [^140]   
+  
+And the fact that a heavily pregnant [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had driven so far to a different city, stayed in the hospital no more than one hour after [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had given birth before returning to [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#)'s apartment, where she stayed until [November 27th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-11-27-Wednesday-November-27th-2019.md#) stuck out to the investigators.[^141]   
+  
+Further, nobody had seen any photos of the baby girl that [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had apparently given birth to.[^142] [^142]   
+  
+Video footage also emerged that had been captured on exterior cameras of a residence in the same complex as [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) and [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s apartment showed a light coloured four door vehicle with the outline, window placement, and general appearance consistent with [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s 2015 [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md#) driving northbound towards the rear of the complex at approximately 9:05am on [Thursday December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#.md#.md#.md#) - the day that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) went missing - and crucially, [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#)'s apartment had been located at the rear of the complex in that same direction.[^145] [^146]   
+  
+The FBI uncovered the address of [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s house, and had learnt that her boyfriend [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#) also resided there.[^143] [^144]   
+  
+Members of the FBI Behavioural Unit had been included on numerous investigative briefs and summaries related to the disappearance of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and her [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^147]   
+  
+And they concluded that the totality of the interactions and events related to [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#), including traveling to another city late into a pregnancy, the interaction with [Shane Carey's Father](../../70-to-79-People/73-Family-and-Friends/05-Shane-Careys-Father.md#.md#.md#.md#.md#) when he held his grandchild for the first time,  the image of a vehicle consistent with the vehicle operated by [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#), and the deletion of [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s Facebook account were analysed by FBI Behavioural Unit Members, who advised the investigators that the situations and scenarios described could be indicative of a female perpetrator of child abduction.[^148]   
+  
+On [Thursday December 19th 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-19-Thursday-December-19th-2019.md#), [M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) was invited back to the police station and was presented with a photo line-up that had been prepared by [Detective Mireles](../../70-to-79-People/75-Police-and-Detectives/08-Detective-Mireles.md#.md#) that featured six images of females all of a similar complexion (with no one standing out), one of which being [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#).[^149] [^150]   
+  
+The line-up was presented to [M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) by [Detective Mitchell](../../70-to-79-People/75-Police-and-Detectives/10-Detective-Mitchell.md#), and when [M.W](../../70-to-79-People/74-Witnesses/02-MW.md#) saw the photo of [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#), she stated that she was 60-70% sure that the photo was that of the female she had seen in the front seat of the vehicle in her account.[^151] [^152]   
+  
+That same day, missing poster flyers that had been put up were published on social media, and two close friends of [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#) told the press that they'd informed the authorities that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) wouldn't have gone off on her own.[^153] [^154] [^155]   
+  
+>[!quote]   
+>"[Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) would have never left without her son"  
+  
+A search warrant for Call Detail Records associated with [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#)'s cell phone number was prepared and presented to Travis County District Court [Judge Urrutia](../../70-to-79-People/77-Legal-Teams/02-Judge-Urrutia.md#), who signed the warrant.[^156] [^157]   
+  
+It was submitted to T-Mobile who provided the historical locational data for the phone number associated with [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s cell phone.[^158]   
+  
+This data showed the device had traveled from Houston to the Austin area on [November 26th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-11-26-Tuesday-November-26th-2019.md#), which was consistent with the statements that had placed her at the hospital for the birth of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s [newborn child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#).[^159]   
+  
+The data also showed the device in the Austin area on [November 26th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-11-26-Tuesday-November-26th-2019.md#) and [November 27th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-11-27-Wednesday-November-27th-2019.md#.md#).[^160]   
+  
+[Supervisory Special Agent Mullen](../../70-to-79-People/75-Police-and-Detectives/12-Supervisory-Special-Agent-Mullen.md#) of the FBI conducted a preliminary historical analysis of the data provided by T-Mobile had discovered that the device had been located in the Austin area near [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#)'s [apartment](../../50-to-59-Investigation/52-Key-Locations/01-Apartment.md#.md#.md#.md#.md#.md#.md#.md#) on [December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#.md#.md#) - the very same day that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and her [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) disappeared.[^161] [^162]   
+  
+The investigators jumped into action, with FBI Agents and Texas Department of Public Safety Investigators conducting surveillance of [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) and [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#)'s residence that same [Thursday December 19th 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-19-Thursday-December-19th-2019.md#).[^163]   
+  
+The Texas Department of Public Safety deployed a helicopter for aerial observation, and the operator observed a vehicle parked in the back yard of [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#) between the garage and the building - parked in a manner consistent with an attempt to conceal it from public view, and that vehicle was confirmed to have been a gray 2015 [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md#.md#) Versa.[^164] [^165] [^166] [^167]   
+  
+FBI Agents reported that [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) had left the residence in a black Nissan Amada SUV that day, and had driven to a Target store where he was observed shopping for baby clothes and purchasing baby formula.[^168] [^169] [^170]   
+  
+As [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) left the Target, the Texas DPS Investigators spoke with him.[^171]   
+  
+[Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) informed them that he had been in a relationship with [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) since 2016, and confirmed that they had lived together at [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#).[^172] [^173]   
+  
+He revealed that he and [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had actually broken up in March of 2019, though, they both had remained living in [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#).[^174]   
+  
+Christopher explained that in the spring of 2019, [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) told him that she had been pregnant and that he noticed [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s stomach grow during the year.[^175] [^176]   
+  
+He indicated that he had felt her stomach, which he described as being hard.[^177]   
+[Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) stated that he never saw [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s bare stomach during the pregnancy, as their relationship during the year did not lend itself to seeing her in stages of undress, but that he believed that [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had been pregnant with his child.[^178] [^179]   
+  
+[Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) was then showed a flyer produced by the National Center for Missing and Exploited Children that featured images of [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#) and her [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), and when he looked at the flyer, looked at the picture of [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#)'s [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) on the flyer, he exclaimed:[^180] [^181]   
+  
+>[!quote] [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) to [Ranger Rainwater](../../70-to-79-People/75-Police-and-Detectives/14-Texas-Ranger-Rainwater.md#)   
+>"That's the baby at my house."  
+  
+FBI Agents were notified of this conversation with [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#), and of the purchase of baby formula.[^182]   
+  
+The agents and DPS Investigators then watched as [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) walked out of the front door of her house with a cell phone and a baby monitor at about 8:15pm on [Thursday December 19th 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-19-Thursday-December-19th-2019.md#).[^183]   
+  
+The investigators spoke with [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#), who told them that on [Thursday December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#.md#.md#.md#.md#.md#) - when [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) went missing, she had left to go to the beach with a cousin while [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) had stayed in the house working.[^184]   
+  
+When [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) saw [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) next on [Friday December 13th 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-13-Friday-December-13-2019.md#), she told [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#):[^185]   
+  
+>[!quote] [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) to [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#)   
+>"Don't be mad, don't be mad."  
+  
+[Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) asked why he would be mad, to which [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) told him that there was a baby on the bed and that she had gone into labour and delivered their baby without [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#)'s knowledge.[^186] [^187] [^188]   
+  
+[Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) told the DPS Investigators that she had gone into labour on [Thursday December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#.md#.md#.md#.md#.md#.md#), and had gone to a birthing center in The Woodlands.[^189] [^190]   
+  
+A birthing center which she couldn't remember the name of.[^191]   
+  
+She claimed that the only people present during the delivery had been employees of the birthing center, and that she had brought the baby home that same day on [Thursday December 12th 2019](../../10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md#.md#.md#.md#.md#.md#.md#.md#).[^192]   
+  
+The investigators confronted [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) about the discrepancy about her location on the date she reportedly delivered, to which [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) stated that she hadn't been in Austin that day (despite the cell phone locational records and witness accounts proving differently).[^193]   
+  
+Members of the FBI Behavioural Analysis Unit provided an assessment of Maternal Desire, specifically, that mothers that have lost a pregnancy or that have falsified pregnancy can materialise the desire to have a child by taking possession of another child.[^194]   
+  
+Now as we know, [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) had reported that the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had suffered from jaundice when discharged from the hospital, and a physician consulted by the FBI advised that untreated severe jaundice can cause a condition called kernicterus - which is a type of brain damage.[^195] [^196]   
+  
+[Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) had been purchasing formula, which [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#) had explained was necessary to treat the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s jaundice.[^197]   
+  
+Due to the unknown wellbeing and treatment of the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s jaundice, which could lead to brain damage if untreated, members of the Texas Department of Public Safety approached [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#) to check on the welfare of the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^198]   
+  
+DPS Troopers secured vehicles at the residence, and secured the perimeter of the residence.[^199]   
+  
+They entered [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#) in an attempt to ensure the safety of the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^200]   
+  
+And in a swing in the backyard, they located a young, infant child whose appearance had been consistent with that of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^201]   
+  
+[Texas Ranger Gary Phillips](../../70-to-79-People/75-Police-and-Detectives/15-Texas-Ranger-Gary-Phillips.md#) approached the 2015 [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md#.md#.md#) Versa that had been seen parked on the back porch of the residence, a vehicle that was registered to [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#).[^202]   
+  
+Now it's important to note that [Ranger Phillips](../../70-to-79-People/75-Police-and-Detectives/15-Texas-Ranger-Gary-Phillips.md#.md#) had investigated numerous deceased persons and had been around numerous deceased human bodies, and through his training and experience, can readily identify the odour of decomposing flesh.[^203]   
+  
+[Ranger Phillips](../../70-to-79-People/75-Police-and-Detectives/15-Texas-Ranger-Gary-Phillips.md#.md#) smelled the immediate and unmistakable odour of decomposing flesh coming from the trunk area of the 2015 [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md#.md#.md#.md#) Versa.[^204]   
+  
+[Detective Herries](../../70-to-79-People/75-Police-and-Detectives/01-Detective-Herries.md#.md#) presented a search warrant for a search of the 2015 [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md#.md#.md#.md#.md#) Versa to [Judge Urrutia](../../70-to-79-People/77-Legal-Teams/02-Judge-Urrutia.md#.md#), who approved it.[^205] [^206]   
+  
+[Ranger Phillips](../../70-to-79-People/75-Police-and-Detectives/15-Texas-Ranger-Gary-Phillips.md#.md#), who had still been on the scene, was notified of the signed search warrant and subsequently executed it.[^207]   
+  
+And during the execution of the search warrant, [Ranger Phillips](../../70-to-79-People/75-Police-and-Detectives/15-Texas-Ranger-Gary-Phillips.md#.md#) discovered a human corpse in the trunk of the vehicle.[^208]   
+  
+The remains were that of a female with long hair that had been shoved into a black duffle bag.[^209] [^210]   
+  
+[Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) was arrested after the discovery of the remains, with an order to seal the arrest warrant for a period of 30 days being filed immediately.[^211]   
+  
+An ambulance took the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) to the hospital to be checked out as a precaution, and thankfully the baby did not have any signs of injuries.[^212]   
+  
+The following day, on [Friday December 20th 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-20-Friday-December-20th-2019.md#), the authorities wrapped up their investigations at [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#) in the early hours of the morning at about 1:30am.[^213]   
+  
+[Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) was charged with two counts of kidnapping and one count of tampering with evidence on a human corpse, with her bond being set at $600,000.[^214]  
+  
+These charges, though, were expected to be upgraded as the evidence against [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) was collected and processed. [^215]   
+  
+That morning, [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) actually appeared in court for multiple previous charges related to six traffic tickets from April 2018 that included expired registration, no driver's license on demand, driving while license invalid, failure to report change of address or name, expired driver's license and no insurance.[^216] [^217]   
+  
+[Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) pled no contest to all six tickets and was found guilty, being fined $50 each for four of her outstanding tickets, and $175 for the remaining two.[^218] [^219]   
+  
+The [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), after being discharged from the hospital after the precautionary checkups, was placed in a foster home while the investigators worked to verify possible relatives of the child.[^220]   
+  
+A longtime friend of both [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) revealed that she had been in contact with [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) every day since [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had gone missing, speaking multiple times a day, and during those calls, she could hear a baby in the background.[^221] [^222]   
+  
+This friend said that [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had told her friends and family that she had also recently given birth to a baby who she named Luna Mae, but that she wouldn't show anyone any pictures of her.[^223]   
+  
+Eerily, [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#)'s car remained parked outside the [apartment](../../50-to-59-Investigation/52-Key-Locations/01-Apartment.md#.md#.md#.md#.md#.md#.md#.md#.md#) complex, with a sticker affixed for her [Six Year Old Child](../../70-to-79-People/73-Family-and-Friends/03-Six-Year-Old-Child.md#), and a shopping list visible inside that included socks and a stocking for her [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and shirts for her [Six Year Old Child](../../70-to-79-People/73-Family-and-Friends/03-Six-Year-Old-Child.md#.md#.md#.md#.md#.md#.md#.md#).[^224] [^225]   
+  
+Neighbours and friends of [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#) and [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#) spoke to the media that day about the family, with one neighbour to the family saying that their kids played together and that the family was as "regular as you can get" and happy together - calling the entire situation "tragic".[^226] [^227] [^228]   
+  
+Another neighbour shared that he used to share cigarettes with [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#), and that she was always sweet and happy - "it sends a chill through my body"[^229] [^230]   
+  
+A nurse that works at the complex said that she used to talk to [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) regularly on the stairs, and that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) had always been "happy and chatty". [^231]   
+  
+The investigators then held a press conference in which they confirmed that a baby had been recovered and that DNA testing was underway to confirm that it was the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), though results could take 48-72 hours.[^232] [^233] [^234]   
+  
+Further, they said that they do believe that the body found had been that of [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#) but they were awaiting the results of the autopsy.[^235]   
+  
+Finally, they said that they were not identifying the suspect arrest in the case yet, though, the press had already discovered who had been arrested due to the arrest records.[^236]   
+  
+They re-affirmed that [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#) was not implicated.[^237]   
+  
+Lawyer Jackie Wood was appointed to represent [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) in the case.[^238]   
+  
+The Harris County Medical Examiner's Office then revealed that the body recovered had been that of [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#), and that her cause of death was ligature strangulation with the manner of death being ruled a homicide.[^239]   
+  
+It quickly became clear that [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) had faked her own pregnancy, and officials believed that [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) had been plotting to take the baby from [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#), leading up to the birth of the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^240] [^241]   
+On [Saturday December 21st 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-21-Saturday-December-21st-2019.md#), [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) was transported from Harris County Jail back to Austin to face charges connected to [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s case. [^242]   
+  
+Friends of [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) spoke to the press that Saturday and said that [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had been calling people, and had expressed that she had been willing to do interviews to help find [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) after she had gone missing.[^243]   
+  
+On Monday December 23rd 2019, the day before Christmas Eve, the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) was confirmed to have been [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#)'s and was returned to his care.[^244]   
+  
+And on [Tuesday December 24th 2019](../../10-to-19-Case-Dates/13-Investigation-Dates/2019-12-24-Tuesday-December-24th-2019.md#), [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had her first appearance in front of a judge in Travis County.[^245]   
+  
+The arrest warrants and affidavits were then unsealed on [Thursday January 2nd 2020](../../10-to-19-Case-Dates/13-Investigation-Dates/2020-01-02-Thursday-January-2nd-2020.md#), with [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) being indicted on a charge of capital murder by terror threat on [Tuesday January 28th 2020](../../10-to-19-Case-Dates/13-Investigation-Dates/2020-1-28-Tuesday-January-28th-2020.md#).[^246] [^247]   
+  
+It was revealed that [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had caused [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s death by asphyxiating her with a ligature, a leash and her hands.[^248]   
+  
+[Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s bond was set at $1,000,000 for Capital Murder and $100,000 on the Kidnapping charges.[^249]   
+Two years later, after the case against [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) was fully built, on [Thursday March 10th 2022](../../10-to-19-Case-Dates/13-Investigation-Dates/2022-3-10-Thursday-March-10th-2022.md#), a hearing commenced in which the defense attorneys for [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) claimed that the police didn't have a search warrant when the [newborn child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#) and [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s body were found at [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#), and requested that evidence be thrown out.[^250]   
+  
+During the morning's portion of the hearing, [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s defense claimed that Texas Rangers didn't have probably cause to enter the home at 1:17pm when they did, and that the warrant that would've granted them entry wasn't issued until later that day at 8:30pm.[^251] [^252]   
+  
+The burden was then shifted to the state to establish if there had been probable cause to enter the home without a search warrant, with the state citing three exceptions that justified it: [^253] [^254]   
+  
+1. Law enforcement isn't required to show probably cause when action is immediately necessary to protect a human life.[^255]   
+2. There was an objective standard of reasonableness to enter, given the facts and circumstances of the case, and;[^256]   
+3. Consent was given by someone authorised to provide consent, allowing Texas Rangers to enter the home without a warrant.[^257]   
+  
+The lead detective on the case explained to the court how [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had become a person of interest after speaking with [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#), who had told them that a friend of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s had a pregnancy at around the same time, but that there hadn't been any pictures of the baby.[^258]   
+  
+And that a search for [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s Facebook page had revealed it to have been deleted, which the detective found to be unusual given the timing.[^259]   
+  
+The detective explained that he had gone to the hospital where [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s baby had been born and had spoken with the nurses that had told him they remembered [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) being there and wanting to hold the baby before the actual family could.[^260]   
+  
+The court then heard of how Texas Rangers had stopped [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) who had been buying baby products.[^261]   
+  
+And how he had explained that he had previously been in a relationship with [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#), but that they still lived together.[^262]   
+  
+The court heard how [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) had gotten home with their newborn baby on the very same day that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and her baby had gone missing in Austin.[^263]   
+  
+It was explained how [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#.md#.md#) confirmed that the picture of the missing baby on the flyer had been the same baby that was in [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#).[^264]   
+  
+One of the two Texas Rangers testified that they did a "protective sweep" of [Magen's House](../../50-to-59-Investigation/52-Key-Locations/03-Magen-House.md#) to find the baby, and once the baby was found safe, he had ordered everyone to exit the home as they didn't have a search warrant.[^265] [^266]   
+  
+Further, the Texas Ranger stated that they had noticed the smell of a decomposing body and had traced it to the car but didn't search or seize anything until the search warrant was obtained later that day.[^267]   
+  
+The court heard how it was only until after the search warrant was issued that the Rangers located the body in the trunk of the car and ordered [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) to be arrested.[^268]   
+  
+[Detective Herries](../../70-to-79-People/75-Police-and-Detectives/01-Detective-Herries.md#.md#) also testified that they believed the newborn baby had jaundice and that based on the information he had, the situation could be life-threatening, which was one of the reasons they didn't wait for a search warrant.[^269]   
+  
+On [Friday March 11th 2022](../../10-to-19-Case-Dates/13-Investigation-Dates/2022-3-11-Friday-March-11th-2022.md#), the Court continued to hear testimony before ruling on the motion to suppress evidence.[^270]   
+  
+The first witness from the state had been a trooper who had told the state he was coordinating with the FBI early on in the case and that he would later become the first member of law enforcement to make contact with the [newborn child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md#.md#.md#.md#.md#).[^271]   
+  
+Video evidence shown by [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s defense from an FBI surveillance plane showed that [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) had still been in the backyard when the law enforcement had arrived.[^272]   
+  
+The trooper said that shortly after arriving, he hopped the fence to get access to the back of the house.[^273]   
+  
+He told the state that he jumped the fence because [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) requested she be allowed to go back inside to meet law enforcement in the front, instead of opening a rear gate for them, saying he was worried if she went back to the baby  "she would kill it".[^274]   
+  
+"The reason I jumped over the fence was because there was a kidnapped baby inside the house".[^275]   
+  
+The next witness had been a Texas Ranger who had been the one to make first contact with [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) as law enforcement approached the home.[^276]   
+  
+He was also assigned to stand with [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) between the time law enforcement made contact with her until eight hours later, when someone from Austin Police Department took over.[^277]   
+  
+The Ranger had an audio recording device on him which recorded that roughly eight hour interaction.[^278]   
+  
+Each law enforcement officer testified that they rescued the child and secured the property - but waited for a search warrant before commencing any search efforts.[^279]   
+  
+In one officer's body camera video, a Texas Ranger can be heard telling other law enforcement officers "once it's clear everybody else get the f- out of the house because it's a crime scene".[^280]   
+  
+[Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#)'s defense pointed out that they had started a crime scene log at 1:25pm that day, and that he had submitted photos to evidence that were taken in bright sunlight, though, a search warrant had not been secured until 8:53pm and the sunset in Houston had been at 5:26pm.[^281]   
+  
+On [Thursday May 12th 2022](../../10-to-19-Case-Dates/13-Investigation-Dates/2022-5-12-Thursday-May-12th-2022.md#), the judge denied the defense team's request and ruled that [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) had voluntarily spoken with law enforcement at the home and had understood her rights.[^282]   
+  
+On Tuesday January 28th 2023, it was published that it was expected that [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) would enter a guilty plea during her next court appearance on January 31st, and in exchange for the plea agreement, [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#) was expecting a sentence of 55 years in prison.[^283]   
+  
+Though, due to a snow storm on [Tuesday January 31st 2023](../../10-to-19-Case-Dates/13-Investigation-Dates/2023-1-31-Tuesday-January-31st-2023.md#), the hearing was moved to [Thursday February 2nd 2023](../../10-to-19-Case-Dates/13-Investigation-Dates/2023-02-02-Thursday-February-2nd-2023.md#).[^284]   
+  
+And on that day, [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#) pleaded guilty to murder her best friend, [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#).[^285]   
+  
+Travis County District Judge Selena Alvarenga sentenced her to 55 years in prison.[^286]   
+  
+“It is difficult, if not impossible, to find justice for this horrendous crime. You have deprived an innocent child — an innocent baby — of the opportunity of growing up with her mother,” Alvarenga said to a tearful [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#).[^287]   
+  
+"You have destroyed an entire family. No matter what the sentence — no matter how long, no matter how harsh — nothing can change that. Nothing can make this family whole again." [^288]   
+  
+ “Heidi’s hugs were strong and full of love,” Broussard’s mother said to the court. “I still feel them now.”[^289]   
+  
+“She loved beyond measure, and she never gave up on anyone. When I think of her – which is every moment and everything I do – I ask what would Heidi say or think. And it gives me peace.” Broussard’s mother continued. [^290]   
+  
+ “We miss her dearly.”[^291]   
+  
+ District Attorney José Garza said he felt the plea bargain was appropriate and "saved the family potentially decades of the painful post-litigation process and helped secure justice." [^292]   
+  
+And that brings us to the end of this case.   
+  
+We can only hope that [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#)'s family and friends have been able to find closure in the justice served, and that they are able to move forward with the memories of their loved one kept close to heart.  
+  
+(usual outro)  
   
 ---  
 # Footnotes  
@@ -420,4 +757,202 @@ On [Wednesday December 18th 2019](../../10-to-19-Case-Dates/11-Background-Dates/
 [^92]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#v67ei))  
 [^93]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#v-k9h))  
 [^94]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#iwvup))  
-[^95]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ug-il))
+[^95]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ug-il))  
+[^96]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#vyzav))  
+[^97]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7x9ux))  
+[^98]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#vf61c))  
+[^99]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#j93xz))  
+[^100]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#nbxzo))  
+[^101]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#3l-su))  
+[^102]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#eao8j))  
+[^103]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#m0fll))  
+[^104]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#b53u))  
+[^105]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#tcqn7))  
+[^106]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#w2lhh))  
+[^107]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#v7gr4))  
+[^108]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7zra3))  
+[^109]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ir38o))  
+[^110]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#o2dxl))  
+[^111]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#tepa9))  
+[^112]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#lnmnm))  
+[^113]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#28rkt))  
+[^114]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#e0dcy))  
+[^115]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md#e0dcy))  
+[^116]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7ieyo))  
+[^117]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#my1wj))  
+[^118]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#tjhqo))  
+[^119]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#xaz67))  
+[^120]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#73zug))  
+[^121]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#kkp4s))  
+[^122]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#5oxc3))  
+[^123]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#g0rhs))  
+[^124]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#06oi))  
+[^125]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#mo0cm))  
+[^126]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#omkl6))  
+[^127]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#6o-ci))  
+[^128]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#dxrap))  
+[^129]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#wqc9j))  
+[^130]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#r9jqa))  
+[^131]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#1n472))  
+[^132]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#b1h5q))  
+[^133]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#vfbnc))  
+[^134]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#bf62))  
+[^135]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#lkbsx))  
+[^136]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#n1ye4))  
+[^137]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#6ot-y))  
+[^138]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#awfv6))  
+[^139]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#qavby))  
+[^140]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#b10l7))  
+[^141]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#9ww-8))  
+[^142]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#730a3))  
+[^142]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#730a3))  
+[^143]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7wojs))  
+[^144]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#rqohn))  
+[^145]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#rj07b))  
+[^146]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#d-bv9))  
+[^147]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#m26lw))  
+[^148]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#gnfi6))  
+[^149]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#zgwm9))  
+[^150]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#o36ed))  
+[^151]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#48og1))  
+[^152]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#xjqp1))  
+[^153]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#151u2))  
+[^154]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#vvm0p))  
+[^155]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#xlhy))  
+[^156]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#scpri))  
+[^157]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ljg0u))  
+[^158]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#2v4oi))  
+[^159]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#co9uj))  
+[^160]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#5a0fu))  
+[^161]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#9pu-s))  
+[^162]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#c2i77))  
+[^163]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#lewue))  
+[^164]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#w90-s))  
+[^165]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#szivg))  
+[^166]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#8rdw6))  
+[^167]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ke2jp))  
+[^168]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ldna))  
+[^169]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#9scoy))  
+[^170]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#wuhpq))  
+[^171]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#cpfp))  
+[^172]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#n5b69))  
+[^173]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#tvh0g))  
+[^174]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#amly))  
+[^175]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#wdxks))  
+[^176]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#4wsr4))  
+[^177]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#oye3v))  
+[^178]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7b2y))  
+[^179]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ho8dq))  
+[^180]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#9yp1f))  
+[^181]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#3iirx))  
+[^182]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#xbc0))  
+[^183]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#jcl2a))  
+[^184]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#dk3cn))  
+[^185]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#8djto))  
+[^186]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#cc-32))  
+[^187]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#aq-hv))  
+[^188]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#xq214))  
+[^189]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#hg2z8))  
+[^190]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ec-66))  
+[^191]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#vu8md))  
+[^192]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#v29ct))  
+[^193]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#koix7))  
+[^194]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#i5lkv))  
+[^195]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#1fwb3))  
+[^196]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7d9jj))  
+[^197]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#z00x2))  
+[^198]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#nsx8))  
+[^199]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#akkag))  
+[^200]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#gls0d))  
+[^201]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#0bzg))  
+[^202]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#kex64))  
+[^203]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#usfmc))  
+[^204]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#kbvp4))  
+[^205]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ako6b))  
+[^206]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#paeoh))  
+[^207]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#djzmh))  
+[^208]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#gs2v7))  
+[^209]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ywfdp))  
+[^210]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#92mol))  
+[^211]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#vp3ve))  
+[^212]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#1dpdi))  
+[^213]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#88e3o))  
+[^214]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#4kuov))  
+[^215]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#oenz4))  
+[^216]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#9b7z7))  
+[^217]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7ony2))  
+[^218]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ay0uy))  
+[^219]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#3964y))  
+[^220]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#qk496))  
+[^221]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#sjp6u))  
+[^222]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#kvd4x))  
+[^223]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#56lxn))  
+[^224]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#jbwd))  
+[^225]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#nqgid))  
+[^226]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ma4yy))  
+[^227]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#hl1sp))  
+[^228]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#3vd0y))  
+[^229]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#4ho-b))  
+[^230]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#fzop7))  
+[^231]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#y8h2g))  
+[^232]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ezj6s))  
+[^233]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#v1ys9))  
+[^234]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#h8cl8))  
+[^235]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#6fufb))  
+[^236]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#92qgw))  
+[^237]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#6tubi))  
+[^238]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#g55o2))  
+[^239]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#ueg5))  
+[^240]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#d6so1))  
+[^241]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#1a4o9))  
+[^242]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#eymmj))  
+[^243]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#jzlfp))  
+[^244]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#x5wkt))  
+[^245]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#9mhbd))  
+[^246]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#z27cw))  
+[^247]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#kblwp))  
+[^248]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#qd752))  
+[^249]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#8eypj))  
+[^250]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#z3lg))  
+[^251]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#lr0l0))  
+[^252]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#6vs3c))  
+[^253]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#k-28j))  
+[^254]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#osrz8))  
+[^255]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#8lirh))  
+[^256]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#f4eyu))  
+[^257]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#cf57q))  
+[^258]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#gk80u))  
+[^259]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md#gk80u))  
+[^260]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#9-2pj))  
+[^261]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#zqzpx))  
+[^262]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md#zqzpx))  
+[^263]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md.md#zqzpx))  
+[^264]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md.md.md#zqzpx))  
+[^265]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#di6uk))  
+[^266]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#bzvoi))  
+[^267]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#v-203))  
+[^268]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#k-cpy))  
+[^269]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#tyxhw))  
+[^270]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#1821a))  
+[^271]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#uo4oo))  
+[^272]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#nfwju))  
+[^273]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#qpbx8))  
+[^274]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md#qpbx8))  
+[^275]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#29592))  
+[^276]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#katl6))  
+[^277]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#x0apu))  
+[^278]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md#x0apu))  
+[^279]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#jri2v))  
+[^280]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#3jft4))  
+[^281]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#lwori))  
+[^282]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#km3xu))  
+[^283]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#7b49u))  
+[^284]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#b-fdh))  
+[^285]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#5mqvd))  
+[^286]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md.md#5mqvd))  
+[^287]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#s0ind))  
+[^288]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#hog75))  
+[^289]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#8p01y))  
+[^290]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#1lppv))  
+[^291]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#r4s81))  
+[^292]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#r3qws))
