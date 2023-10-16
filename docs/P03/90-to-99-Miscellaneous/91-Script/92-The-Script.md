@@ -154,8 +154,7 @@ The following day, [Saturday December 14th 2019](../../10-to-19-Case-Dates/13-In
 It had been on that Saturday that [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#) made his first public plea for information pertaining to the whereabouts of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#) and their newborn baby.[^49]   
   
 >[!note] Video Insert  
->![24-shane-first-public-plea](../../../assets/attachments/24-shane-first-public-plea.mp4)  
->Video: [24-shane-first-public-plea](../../../assets/attachments/24-shane-first-public-plea.mp4)  
+><iframe src="https://drive.google.com/file/d/144nbPQbE9UA7QEusQRWoQ2jHlwu5khen/preview" width="640" height="480" allow="autoplay"></iframe>  
 >  
   
   
@@ -217,8 +216,7 @@ She was adventurous and willing to try anything once, and had an overwhelming fa
 Let's take a listen to one of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s friends describe her:  
   
 >[!note] Video Insert  
->![01-heidi-friend-talks-about-who-she-was-as-a-person](../../../assets/attachments/01-heidi-friend-talks-about-who-she-was-as-a-person.mp4)  
->Video: [01-heidi-friend-talks-about-who-she-was-as-a-person](../../../assets/attachments/01-heidi-friend-talks-about-who-she-was-as-a-person.mp4)  
+><iframe src="https://drive.google.com/file/d/16vXgSzqvG2P_TWZZ__nPVLcoEY7UgVwH/preview" width="640" height="480" allow="autoplay"></iframe>  
   
 When she was younger, she had been an active member of Abundant Life Fellowship, church camp and youth camp.[^68]   
   
@@ -251,8 +249,8 @@ And this love and care for her best friend only amplified after [Heidi](../../70
 Tim Miller from Eqqusearch had called up a number of [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s friends after she went missing, including [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#.md#.md#.md#), and this is what she told him.  
   
 >[!note]  Video Insert  
->![08-equusearch](../../../assets/attachments/08-equusearch.mp4)  
->([Equusearch Video](../../../assets/attachments/08-equusearch.mp4))  
+>![08-equusearch](../../30-to-39-Case-Media/34-Press-Video/08-equusearch.mp4)  
+>([Equusearch Video](../../30-to-39-Case-Media/34-Press-Video/08-equusearch.mp4))  
 >>[!quote] Transcript Quote  
 >>**1:43:**  
 >>"so my first call was to Magen. And she answered the phone, and I told her who I was, and she said yeah I've seen you on TV so many times and just thank you for helping find my friend, and I said well Magen, I said what's your heart telling you on this. And she's like, Shane did it. She says I was there 10 years ago when they met, I told Heidi stay away from this guy, he's trouble relationships on and off, there's been a lot of abuse going on, Shane keeps saying well that baby's not even mine and stuff, she called me back in May and said that her and Shane had a terrible fight, and and and she just went on and on and on and to the point that literally 45 minutes later, I said Magen, listen, I got it I got to go I'm getting a call on the other line. And said Mr. Miller thank you for what you're doing, she says I'm going to keep talking to people and everything if I come up with anything, is it okay if I call you? And I said Magen please do. Please call me. And I mean looking back at that conversation on Sunday to now, there was not one single indication that I would ever believe she had anything to do with it. So you know and she's at the hospital with Heidi when she has the baby, here she is after Heidi gets out at the house helping and everything"  
@@ -273,8 +271,7 @@ By the time the afternoon of [Sunday December 15th 2019](../../10-to-19-Case-Dat
 That same day, [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#) made another emotional plea in the press.[^84]   
   
 >[!note]  Video Insert  
->![19-raw-shane-carey-interview](../../../assets/attachments/19-raw-shane-carey-interview.mp4)  
->Video: [19-raw-shane-carey-interview](../../../assets/attachments/19-raw-shane-carey-interview.mp4)  
+><iframe src="https://drive.google.com/file/d/1sxyda4gfkO2O2nl72i6pzDECjNzZN0pD/preview" width="640" height="480" allow="autoplay"></iframe>  
 >  
 >Use clips from where Shane is addressing the scrutiny.  
   
@@ -289,8 +286,7 @@ Investigators interviewed the neighbours in the complex where [Heidi](../../70-t
 An interview with [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#.md#.md#.md#) in which his father had been present by the press was also published, let's take a look at [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#)'s account of what happened.  
   
 >[!note] Video Insert  
->![23-shane-speaks-out-with-dad](../../../assets/attachments/23-shane-speaks-out-with-dad.mp4)  
->Video: [23-shane-speaks-out-with-dad](../../../assets/attachments/23-shane-speaks-out-with-dad.mp4)  
+><iframe src="https://drive.google.com/file/d/1ar0-acOrG9VgOt5gTRL8SiOCyvAehpz0/preview" width="640" height="480" allow="autoplay"></iframe>  
 >>[!quote] Transcript  
 >>" Every day we uh I wake up first because I have to go to work first, and then I do a little morning routine, do everything, they start waking up around 6:30, and so like I start waking them up, give em kisses goodbye `<cries>` have a good day at school, and then she starts making their sandwiches and um so I went to work, she took Margo with Silas she dropped him off at school to the book fair and after the book fair she called me around 8:00 something on her way home from the Book Fair says she spent $25, I was like that's okay and I told her I have to go cuz I was on my way out, and I told her I love you, bye, and pretty much I worked all day till about 1:00 something and then I got here around 2:00, I seen her car, walked upstairs, she wasn't here, and her phone was off so I thought she was at a friend's house cuz the friend lives in the same complex so she might be over there with her phone off, so I thought nothing of it but she was not back yet so then I went and picked up my son from daycare, and brought him home, and he didn't finish his lunch so he told me to grill it for him. `<cries>` And uh. Basically then after a little bit I called my dad, he said don't worry about it too much right now, and I called her friends and she wasn't heard from them, her friends didn't hear from her, so then I called the cops, and then they came over here I think it was around 7:30. I think. And ever since then it's just been trying to reach out, just just help, I don't know. She’s a great mom, she needs to be back.  "  
 >>  
@@ -309,8 +305,7 @@ Meanwhile, detectives obtained surveillance footage from any premises in the are
 The investigators addressed the press that evening, let's take a look.[^95]   
   
 >[!note] Video Insert  
->![02-police-give-update](../../../assets/attachments/02-police-give-update.mp4)  
->Video: [02-police-give-update](../../../assets/attachments/02-police-give-update.mp4)  
+><iframe src="https://drive.google.com/file/d/1VE_LUYzuzCN9-yNh3DYM6Lxcm5QDUBb4/preview" width="640" height="480" allow="autoplay"></iframe>  
   
 On [Wednesday December 18th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-12-18-Wednesday-December-18th-2019.md#), [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#.md#)'s parents spoke to the press, saying:[^96]   
   
@@ -342,8 +337,8 @@ On top of that, the friend stated that [Shane Carey](../../70-to-79-People/73-Fa
 And this friend hadn't been the only person to have doubts about [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#.md#.md#)'s version of events.  
   
 >[!note]  Video Insert  
->![08-equusearch](../../../assets/attachments/08-equusearch.mp4)  
->([Equusearch Video](../../../assets/attachments/08-equusearch.mp4))  
+>![08-equusearch](../../30-to-39-Case-Media/34-Press-Video/08-equusearch.mp4)  
+>([Equusearch Video](../../30-to-39-Case-Media/34-Press-Video/08-equusearch.mp4))  
 >>[!quote] Transcript Quote  
 >>"The family called us first and then I called and talked to the detectives up in Austin and we talked several times with detectives, and they said we just don't have anything yet on the investigation, it's narrowing this thing down to an area that we think we need to search. And he asked me, said have you found any areas? And I said, well, I did but I don't know if they make any sense. I said, I rode around with Shane for a long time. I you know I spent a good part of the day with him and you know we hate to go up there and spend a lot of money and burn up a bunch of resources with just shooting a arrow in the sky wherever it comes down, that's where we start. So we stayed in close touch, I talked to Shane almost every day. Shane's frustrated at best"  
 >>  
